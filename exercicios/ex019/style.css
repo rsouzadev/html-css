@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+
+#principal {
+    text-align: center;
+    background-color: rgb(141, 163, 163);
+    color: brown;
+}
+
+.promocao {
+    color: rgb(186, 42, 88);
+}
+h2 {
+    color: blueviolet;
+}
+
+.destaque {
+    color: rgba(237, 205, 23, 0.516);
+}
